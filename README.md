@@ -6,7 +6,7 @@ When setting FileListSettings.View of the BootstrapRichEdit in Page Load or Init
 Loading keeps spinning.
 
 
-![Image Screenshot](RTUploadimageinPageControl/pic.PNG)
+![Image Screenshot](RTUploadimageinPageControl/pic.jpg)
 
 ## Solution
 ?
