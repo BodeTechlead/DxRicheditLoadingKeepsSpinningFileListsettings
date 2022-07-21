@@ -9,4 +9,5 @@ Loading keeps spinning.
 ![Image Screenshot](RTUploadimageinPageControl/pic.jpg)
 
 ## Solution
-?
+
+Devexpress: change tab visibility only during the first page load or move your code to Page_Init.
